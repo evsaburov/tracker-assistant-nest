@@ -2,7 +2,7 @@
 
 - This project uses nestjs 'framework', 'telegraf', 'telegraf-postgres-session' as session middleware.
 
-- You need to fill in the file.
+- You need to fill in the file .env .
 
 ```
 BOT_TOKEN = <BOT_TOKEN>
