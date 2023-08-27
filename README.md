@@ -1,6 +1,6 @@
 - "tracker-assistant-nest" this is a variant of the project "tracker-assistant", but now the framework is used.
 
-- This project uses nestjs 'framework', 'telegraf', 'telegraf-postgres-session' as session middleware.
+- This project uses nestjs framework, 'telegraf', 'telegraf-postgres-session' as session middleware.
 
 - You need to fill in the file .env .
 
